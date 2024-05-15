@@ -1,11 +1,11 @@
 <img src="./assets/img.jpg" align="right" min-width="300px" max-width="550px" width="300px">
 
 <p align="left">
-  <strong></>Olá! 👋</></strong>   
+  <strong>Olá! 👋</strong>   
 </p>
 <p align="left">
-  </>Meu nome é Jean Rufino, sou <strong>desenvolvedor web</strong>, com foco em <strong>frontend e experiência do usuário</strong>. <br />
-  Ainda não possuo experiência no mercado, mas estou em busca de oportunidades para me aprimorar cada vez mais! Veja meus repositórios!</>
+  Meu nome é Jean Rufino, sou <strong>desenvolvedor web</strong>, com foco em <strong>frontend e experiência do usuário</strong>. <br />
+  Ainda não possuo experiência no mercado, mas estou em busca de oportunidades para me aprimorar cada vez mais! Veja meus repositórios!
 </p>
 
 <p align="left">
