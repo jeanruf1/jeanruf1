@@ -42,8 +42,7 @@
 </p>
 
 <p align="left">
-  Meus projetos vão desde a <strong>automação de processos críticos de KYC/Onboarding</strong> até a criação de 
-  <strong>plataformas educacionais B2B</strong>, <strong>agentes operacionais inteligentes</strong> e <strong>sistemas gerenciais corporativos</strong>.
+  Meus projetos vão desde a automação de processos críticos e agentes operacionais inteligentes até sistemas gerenciais corporativos.
 </p>
 
 <br>
