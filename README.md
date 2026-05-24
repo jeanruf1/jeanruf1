@@ -1,12 +1,11 @@
 <div align="center">
-  <h2>🚀 Bem-vindo ao meu perfil!</h2>
-  <h3>
-    👉 <a href="https://www.jeanruf1no.site/" target="_blank">CLIQUE AQUI PARA ACESSAR MEU PORTFÓLIO COMPLETO</a> 👈
-  </h3>
-  <p><em>Veja na prática meus projetos de Engenharia de Dados, IA e Automação.</em></p>
+  <a href="https://www.jeanruf1no.site/" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_Acessar_Meu_Portfólio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfólio de Jean Rufino">
+  </a>
+  <p>🚀 <i>Veja na prática meus projetos de Engenharia de Dados, IA e Automação.</i></p>
 </div>
 
-<hr>
+<br>
 
 <img src="./assets/img.jpg" align="right" width="300">
 
@@ -50,7 +49,4 @@
 <br>
 
 <p align="left">
-  <a href="https://linkedin.com/in/jeanrufino/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-</p>
+  <a
