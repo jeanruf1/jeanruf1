@@ -1,9 +1,12 @@
 <div align="center">
-  <a href="https://www.jeanruf1no.site/" target="_blank">
-    <img src="https://img.shields.io/badge/🌐_Acesse_Meu_Portfólio-05122A?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfólio de Jean Rufino">
-  </a>
+  <h2>🚀 Bem-vindo ao meu perfil!</h2>
+  <h3>
+    👉 <a href="https://www.jeanruf1no.site/" target="_blank">CLIQUE AQUI PARA ACESSAR MEU PORTFÓLIO COMPLETO</a> 👈
+  </h3>
+  <p><em>Veja na prática meus projetos de Engenharia de Dados, IA e Automação.</em></p>
 </div>
-<br>
+
+<hr>
 
 <img src="./assets/img.jpg" align="right" width="300">
 
@@ -43,6 +46,8 @@
   Meus projetos vão desde a <strong>automação de processos críticos de KYC/Onboarding</strong> até a criação de 
   <strong>plataformas educacionais B2B</strong>, <strong>agentes operacionais inteligentes</strong> e <strong>sistemas gerenciais corporativos</strong>.
 </p>
+
+<br>
 
 <p align="left">
   <a href="https://linkedin.com/in/jeanrufino/" target="_blank">
